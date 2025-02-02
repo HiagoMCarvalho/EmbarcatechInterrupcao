@@ -50,6 +50,9 @@ pio_matrix-master/
 ## Licença
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 
+## Link para o vídeo
+<https://drive.google.com/file/d/19OIQUytOVMvoQ2PZjhGP4l7CMhHPrWBp/view?usp=sharing>
+
 ## Autor
 Desenvolvido por <https://github.com/HiagoMCarvalho>.
 
